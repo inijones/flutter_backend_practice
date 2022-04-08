@@ -1,6 +1,12 @@
 # state_management
 
-A new Flutter project.
+Chapter 6: Basic State Management
+
+Model View Separation
+Managing data layer with Inherited Widget
+Making the app state visible across multiple layer
+Designing the n-tier architecture - Controller, Repositiries and Services
+
 
 ## Getting Started
 
