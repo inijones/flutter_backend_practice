@@ -3,9 +3,9 @@ import 'package:state_in_flutter/own_state_managing_widget.dart';
 import 'package:state_in_flutter/parent_and_child_widget.dart';
 import 'package:state_in_flutter/question_and_answer.dart';
 
-void main() {
-  runApp(OurApp());
-}
+// void main() {
+//   runApp(OurApp());
+// }
 
 class OurApp extends StatelessWidget {
   @override
