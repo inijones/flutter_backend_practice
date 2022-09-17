@@ -1,4 +1,4 @@
-# stopwach.flutter
+# flutter architecture and state managment practice
 
 Apps developed for testing and learning State Managements, Asynchronous Programming and, Data Serialization and Persistence
 
